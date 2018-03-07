@@ -1,0 +1,8 @@
+- mkdir GitHubRepoAssignment
+- git init
+- touch read.md
+- git status
+- touch GitHubRepoAssignment.txt
+- git add .
+- git commit -m "text file added"
+- git push origin master
